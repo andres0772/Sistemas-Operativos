@@ -120,6 +120,3 @@ Este proyecto permite comprender:
 3. Manipulación de archivos, carpetas y procesos desde código
 4. Estructura modular de aplicaciones de escritorio
 
-## Licencia
-
-Proyecto educativo - Uso libre para fines de aprendizaje.
